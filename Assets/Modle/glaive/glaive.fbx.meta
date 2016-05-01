@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 6e050957d02b4e145874b0fe75e9cf34
+timeCreated: 1461827402
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: illidan_glave_missile
+    100004: illidan_glave_missile 1
+    100006: illidan_glave_missile_bone_0
+    100008: illidan_glave_missile_bone_1
+    100010: illidan_glave_missile_bone_2
+    100012: illidan_glave_missile_bone_3
+    100014: illidan_glave_missile_bone_4
+    400000: //RootNode
+    400002: illidan_glave_missile
+    400004: illidan_glave_missile 1
+    400006: illidan_glave_missile_bone_0
+    400008: illidan_glave_missile_bone_1
+    400010: illidan_glave_missile_bone_2
+    400012: illidan_glave_missile_bone_3
+    400014: illidan_glave_missile_bone_4
+    4300000: illidan_glave_missile
+    7400000: Stand [0]
+    9500000: //RootNode
+    13700000: illidan_glave_missile
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stand [0]
+      takeName: Stand [0]
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: illidan_glave_missile
+        weight: 1
+      - path: illidan_glave_missile 1
+        weight: 1
+      - path: illidan_glave_missile 1/illidan_glave_missile_bone_0
+        weight: 1
+      - path: illidan_glave_missile 1/illidan_glave_missile_bone_0/illidan_glave_missile_bone_1
+        weight: 1
+      - path: illidan_glave_missile 1/illidan_glave_missile_bone_0/illidan_glave_missile_bone_2
+        weight: 1
+      - path: illidan_glave_missile 1/illidan_glave_missile_bone_0/illidan_glave_missile_bone_3
+        weight: 1
+      - path: illidan_glave_missile 1/illidan_glave_missile_bone_0/illidan_glave_missile_bone_4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
