@@ -33,6 +33,7 @@ public class MonkeyMoveMent : MonoBehaviour
 
     public void OnTriggerEnter(Collider other)
     {
+<<<<<<< HEAD
 
         print(other.tag);
         if (other.tag.Equals("Player")) {
@@ -40,6 +41,10 @@ public class MonkeyMoveMent : MonoBehaviour
             {
                 return;
             }
+=======
+        print(other.tag);
+        if (other.tag.Equals("Player")) {
+>>>>>>> c8abdcf36ff1611ab7d8600a835c952cfdd9709c
             isMoving = false;
             _AudioSource[1].Play();
         }
@@ -49,6 +54,7 @@ public class MonkeyMoveMent : MonoBehaviour
         }
     }
 
+<<<<<<< HEAD
     /// <summary>
     /// 
     /// </summary>
@@ -64,6 +70,11 @@ public class MonkeyMoveMent : MonoBehaviour
                 isMoving = true;
                 return;
             }
+=======
+    public void OnTriggerStay(Collider other)
+    {
+        if (other.tag.Equals("Player")) {
+>>>>>>> c8abdcf36ff1611ab7d8600a835c952cfdd9709c
             _transform.LookAt(other.transform.position);
             _transform.position = Vector3.MoveTowards(_transform.position, other.transform.position,Time.deltaTime*3f);
             if (!PlayerController.isDeathing) {
@@ -79,12 +90,16 @@ public class MonkeyMoveMent : MonoBehaviour
 
     public void OnTriggerExit(Collider other)
     {
+<<<<<<< HEAD
 
         if (other.tag.Equals("Player")) {
             if (PlayerController.isDeathing)
             {
                 return;
             }
+=======
+        if (other.tag.Equals("Player")) {
+>>>>>>> c8abdcf36ff1611ab7d8600a835c952cfdd9709c
             isMoving = true;
             MovingDirection = Vector3.Normalize(other.transform.position - _transform.position)*0.08f;
             _transform.LookAt(other.transform.position);

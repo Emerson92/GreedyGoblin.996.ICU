@@ -12,7 +12,11 @@ public class MoveJoystick : MonoBehaviour
     private CharacterController _characterController;
     private Animator _animation;
     public static bool isDeath = false;
+<<<<<<< HEAD
     public static float Speed = 0.3f;
+=======
+    public static float Speed = 0.1f;
+>>>>>>> c8abdcf36ff1611ab7d8600a835c952cfdd9709c
 
     //private GameObject _Spirt;
     //private Transform _SpirtTransform;

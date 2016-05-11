@@ -218,7 +218,11 @@ ModelImporter:
       name: Stand [1]
       takeName: Stand [1]
       firstFrame: 0
+<<<<<<< HEAD
       lastFrame: 48
+=======
+      lastFrame: 99
+>>>>>>> c8abdcf36ff1611ab7d8600a835c952cfdd9709c
       wrapMode: 0
       orientationOffsetY: 0
       level: 0

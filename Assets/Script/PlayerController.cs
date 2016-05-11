@@ -35,9 +35,13 @@ public class PlayerController : MonoBehaviour
         _transform = this.GetComponent<Transform>();
         StartPositoin = _transform.position;
         count = 0;
+<<<<<<< HEAD
         if (lifeText !=null) { 
         lifeText.text = "Life:" + life.ToString();
         }
+=======
+        lifeText.text = "Life:" + life.ToString();
+>>>>>>> c8abdcf36ff1611ab7d8600a835c952cfdd9709c
         setCountext();
         _animation = this.GetComponent<Animator>();
         _AudioS = this.GetComponents<AudioSource>();
@@ -105,7 +109,11 @@ public class PlayerController : MonoBehaviour
             if (!isAddSpeeding)
             {
                 SpeedRing.SetActive(true);
+<<<<<<< HEAD
                 MoveJoystick.Speed = 0.45f;
+=======
+                MoveJoystick.Speed = 0.15f;
+>>>>>>> c8abdcf36ff1611ab7d8600a835c952cfdd9709c
                 isAddSpeeding = true;
                 //Invoke("setSpeedingToShutDown", 5);
             }
@@ -141,7 +149,10 @@ public class PlayerController : MonoBehaviour
                     {
                         Instantiate(explore, _transform.position, Quaternion.identity);
                         //Destroy(this.gameObject);s
+<<<<<<< HEAD
                         _animation.SetBool("GobinRun",false);
+=======
+>>>>>>> c8abdcf36ff1611ab7d8600a835c952cfdd9709c
                         _animation.SetBool("Death", true);
                         winText.text = "YOU LOSE!";
                         isDeathing = true;
@@ -160,16 +171,25 @@ public class PlayerController : MonoBehaviour
 
     public void setCountext()
     {
+<<<<<<< HEAD
         if (countText != null) { 
             countText.text = "Count :" + count.ToString();
             winText.text = "";
         }
+=======
+        countText.text = "Count :" + count.ToString();
+        winText.text = "";
+>>>>>>> c8abdcf36ff1611ab7d8600a835c952cfdd9709c
     }
 
     void setSpeedingToShutDown()
     {
         SpeedRing.SetActive(false);
+<<<<<<< HEAD
         MoveJoystick.Speed = 0.3f;
+=======
+        MoveJoystick.Speed = 0.1f;
+>>>>>>> c8abdcf36ff1611ab7d8600a835c952cfdd9709c
     }
     void setProtectRingToShutDown()
     {
