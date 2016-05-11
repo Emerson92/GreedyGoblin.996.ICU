@@ -1,0 +1,889 @@
+fileFormatVersion: 2
+guid: facc373ab9be9214894b5ae3e5b812e2
+timeCreated: 1461897547
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: goblinshredder
+    100004: goblinshredder 1
+    100006: goblinshredder_bone_0
+    100008: goblinshredder_bone_1
+    100010: goblinshredder_bone_10
+    100012: goblinshredder_bone_103
+    100014: goblinshredder_bone_11
+    100016: goblinshredder_bone_110
+    100018: goblinshredder_bone_12
+    100020: goblinshredder_bone_13
+    100022: goblinshredder_bone_14
+    100024: goblinshredder_bone_15
+    100026: goblinshredder_bone_16
+    100028: goblinshredder_bone_17
+    100030: goblinshredder_bone_18
+    100032: goblinshredder_bone_19
+    100034: goblinshredder_bone_2
+    100036: goblinshredder_bone_20
+    100038: goblinshredder_bone_21
+    100040: goblinshredder_bone_22
+    100042: goblinshredder_bone_23
+    100044: goblinshredder_bone_24
+    100046: goblinshredder_bone_25
+    100048: goblinshredder_bone_26
+    100050: goblinshredder_bone_27
+    100052: goblinshredder_bone_28
+    100054: goblinshredder_bone_29
+    100056: goblinshredder_bone_3
+    100058: goblinshredder_bone_30
+    100060: goblinshredder_bone_31
+    100062: goblinshredder_bone_32
+    100064: goblinshredder_bone_33
+    100066: goblinshredder_bone_34
+    100068: goblinshredder_bone_35
+    100070: goblinshredder_bone_36
+    100072: goblinshredder_bone_37
+    100074: goblinshredder_bone_38
+    100076: goblinshredder_bone_39
+    100078: goblinshredder_bone_4
+    100080: goblinshredder_bone_40
+    100082: goblinshredder_bone_41
+    100084: goblinshredder_bone_42
+    100086: goblinshredder_bone_43
+    100088: goblinshredder_bone_44
+    100090: goblinshredder_bone_45
+    100092: goblinshredder_bone_46
+    100094: goblinshredder_bone_47
+    100096: goblinshredder_bone_48
+    100098: goblinshredder_bone_49
+    100100: goblinshredder_bone_5
+    100102: goblinshredder_bone_50
+    100104: goblinshredder_bone_51
+    100106: goblinshredder_bone_52
+    100108: goblinshredder_bone_53
+    100110: goblinshredder_bone_54
+    100112: goblinshredder_bone_55
+    100114: goblinshredder_bone_56
+    100116: goblinshredder_bone_57
+    100118: goblinshredder_bone_58
+    100120: goblinshredder_bone_59
+    100122: goblinshredder_bone_6
+    100124: goblinshredder_bone_60
+    100126: goblinshredder_bone_61
+    100128: goblinshredder_bone_62
+    100130: goblinshredder_bone_63
+    100132: goblinshredder_bone_64
+    100134: goblinshredder_bone_65
+    100136: goblinshredder_bone_66
+    100138: goblinshredder_bone_67
+    100140: goblinshredder_bone_68
+    100142: goblinshredder_bone_69
+    100144: goblinshredder_bone_7
+    100146: goblinshredder_bone_70
+    100148: goblinshredder_bone_71
+    100150: goblinshredder_bone_72
+    100152: goblinshredder_bone_73
+    100154: goblinshredder_bone_74
+    100156: goblinshredder_bone_75
+    100158: goblinshredder_bone_76
+    100160: goblinshredder_bone_77
+    100162: goblinshredder_bone_78
+    100164: goblinshredder_bone_79
+    100166: goblinshredder_bone_8
+    100168: goblinshredder_bone_80
+    100170: goblinshredder_bone_81
+    100172: goblinshredder_bone_82
+    100174: goblinshredder_bone_83
+    100176: goblinshredder_bone_84
+    100178: goblinshredder_bone_85
+    100180: goblinshredder_bone_9
+    400000: //RootNode
+    400002: goblinshredder
+    400004: goblinshredder 1
+    400006: goblinshredder_bone_0
+    400008: goblinshredder_bone_1
+    400010: goblinshredder_bone_10
+    400012: goblinshredder_bone_103
+    400014: goblinshredder_bone_11
+    400016: goblinshredder_bone_110
+    400018: goblinshredder_bone_12
+    400020: goblinshredder_bone_13
+    400022: goblinshredder_bone_14
+    400024: goblinshredder_bone_15
+    400026: goblinshredder_bone_16
+    400028: goblinshredder_bone_17
+    400030: goblinshredder_bone_18
+    400032: goblinshredder_bone_19
+    400034: goblinshredder_bone_2
+    400036: goblinshredder_bone_20
+    400038: goblinshredder_bone_21
+    400040: goblinshredder_bone_22
+    400042: goblinshredder_bone_23
+    400044: goblinshredder_bone_24
+    400046: goblinshredder_bone_25
+    400048: goblinshredder_bone_26
+    400050: goblinshredder_bone_27
+    400052: goblinshredder_bone_28
+    400054: goblinshredder_bone_29
+    400056: goblinshredder_bone_3
+    400058: goblinshredder_bone_30
+    400060: goblinshredder_bone_31
+    400062: goblinshredder_bone_32
+    400064: goblinshredder_bone_33
+    400066: goblinshredder_bone_34
+    400068: goblinshredder_bone_35
+    400070: goblinshredder_bone_36
+    400072: goblinshredder_bone_37
+    400074: goblinshredder_bone_38
+    400076: goblinshredder_bone_39
+    400078: goblinshredder_bone_4
+    400080: goblinshredder_bone_40
+    400082: goblinshredder_bone_41
+    400084: goblinshredder_bone_42
+    400086: goblinshredder_bone_43
+    400088: goblinshredder_bone_44
+    400090: goblinshredder_bone_45
+    400092: goblinshredder_bone_46
+    400094: goblinshredder_bone_47
+    400096: goblinshredder_bone_48
+    400098: goblinshredder_bone_49
+    400100: goblinshredder_bone_5
+    400102: goblinshredder_bone_50
+    400104: goblinshredder_bone_51
+    400106: goblinshredder_bone_52
+    400108: goblinshredder_bone_53
+    400110: goblinshredder_bone_54
+    400112: goblinshredder_bone_55
+    400114: goblinshredder_bone_56
+    400116: goblinshredder_bone_57
+    400118: goblinshredder_bone_58
+    400120: goblinshredder_bone_59
+    400122: goblinshredder_bone_6
+    400124: goblinshredder_bone_60
+    400126: goblinshredder_bone_61
+    400128: goblinshredder_bone_62
+    400130: goblinshredder_bone_63
+    400132: goblinshredder_bone_64
+    400134: goblinshredder_bone_65
+    400136: goblinshredder_bone_66
+    400138: goblinshredder_bone_67
+    400140: goblinshredder_bone_68
+    400142: goblinshredder_bone_69
+    400144: goblinshredder_bone_7
+    400146: goblinshredder_bone_70
+    400148: goblinshredder_bone_71
+    400150: goblinshredder_bone_72
+    400152: goblinshredder_bone_73
+    400154: goblinshredder_bone_74
+    400156: goblinshredder_bone_75
+    400158: goblinshredder_bone_76
+    400160: goblinshredder_bone_77
+    400162: goblinshredder_bone_78
+    400164: goblinshredder_bone_79
+    400166: goblinshredder_bone_8
+    400168: goblinshredder_bone_80
+    400170: goblinshredder_bone_81
+    400172: goblinshredder_bone_82
+    400174: goblinshredder_bone_83
+    400176: goblinshredder_bone_84
+    400178: goblinshredder_bone_85
+    400180: goblinshredder_bone_9
+    4300000: goblinshredder
+    7400000: Stand [1]
+    7400002: Run [6]
+    7400004: Death [12]
+    9500000: //RootNode
+    13700000: goblinshredder
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stand [1]
+      takeName: Stand [1]
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: goblinshredder
+        weight: 1
+      - path: goblinshredder 1
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_4
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_4/goblinshredder_bone_8
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_4/goblinshredder_bone_8/goblinshredder_bone_26
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_4/goblinshredder_bone_8/goblinshredder_bone_26/goblinshredder_bone_28
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_5
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_5/goblinshredder_bone_9
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_5/goblinshredder_bone_9/goblinshredder_bone_27
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_5/goblinshredder_bone_9/goblinshredder_bone_27/goblinshredder_bone_29
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_10
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_11
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_12
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_13
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_14
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44/goblinshredder_bone_51
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44/goblinshredder_bone_51/goblinshredder_bone_60
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44/goblinshredder_bone_52
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44/goblinshredder_bone_52/goblinshredder_bone_61
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44/goblinshredder_bone_53
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44/goblinshredder_bone_53/goblinshredder_bone_62
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_31
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_16
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_16/goblinshredder_bone_23
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_16/goblinshredder_bone_23/goblinshredder_bone_32
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_16/goblinshredder_bone_23/goblinshredder_bone_32/goblinshredder_bone_37
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_16/goblinshredder_bone_23/goblinshredder_bone_33
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_17
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_18
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_18/goblinshredder_bone_20
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_18/goblinshredder_bone_21
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_18/goblinshredder_bone_21/goblinshredder_bone_110
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_103
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41/goblinshredder_bone_45
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41/goblinshredder_bone_45/goblinshredder_bone_54
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41/goblinshredder_bone_45/goblinshredder_bone_54/goblinshredder_bone_63
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41/goblinshredder_bone_45/goblinshredder_bone_54/goblinshredder_bone_63/goblinshredder_bone_68
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41/goblinshredder_bone_45/goblinshredder_bone_54/goblinshredder_bone_63/goblinshredder_bone_68/goblinshredder_bone_77
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41/goblinshredder_bone_45/goblinshredder_bone_55
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_69
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_69/goblinshredder_bone_78
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_70
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_70/goblinshredder_bone_79
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_71
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_71/goblinshredder_bone_80
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_72
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_72/goblinshredder_bone_81
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_65
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_73
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_73/goblinshredder_bone_82
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_74
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_74/goblinshredder_bone_83
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_75
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_75/goblinshredder_bone_84
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_76
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_76/goblinshredder_bone_85
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_67
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_35
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_35/goblinshredder_bone_38
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_35/goblinshredder_bone_38/goblinshredder_bone_48
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_35/goblinshredder_bone_38/goblinshredder_bone_48/goblinshredder_bone_58
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_35/goblinshredder_bone_38/goblinshredder_bone_49
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_36
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_36/goblinshredder_bone_39
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_36/goblinshredder_bone_39/goblinshredder_bone_50
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_36/goblinshredder_bone_39/goblinshredder_bone_50/goblinshredder_bone_59
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run [6]
+      takeName: Run [6]
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: goblinshredder
+        weight: 1
+      - path: goblinshredder 1
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_4
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_4/goblinshredder_bone_8
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_4/goblinshredder_bone_8/goblinshredder_bone_26
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_4/goblinshredder_bone_8/goblinshredder_bone_26/goblinshredder_bone_28
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_5
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_5/goblinshredder_bone_9
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_5/goblinshredder_bone_9/goblinshredder_bone_27
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_5/goblinshredder_bone_9/goblinshredder_bone_27/goblinshredder_bone_29
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_10
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_11
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_12
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_13
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_14
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44/goblinshredder_bone_51
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44/goblinshredder_bone_51/goblinshredder_bone_60
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44/goblinshredder_bone_52
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44/goblinshredder_bone_52/goblinshredder_bone_61
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44/goblinshredder_bone_53
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44/goblinshredder_bone_53/goblinshredder_bone_62
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_31
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_16
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_16/goblinshredder_bone_23
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_16/goblinshredder_bone_23/goblinshredder_bone_32
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_16/goblinshredder_bone_23/goblinshredder_bone_32/goblinshredder_bone_37
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_16/goblinshredder_bone_23/goblinshredder_bone_33
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_17
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_18
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_18/goblinshredder_bone_20
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_18/goblinshredder_bone_21
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_18/goblinshredder_bone_21/goblinshredder_bone_110
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_103
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41/goblinshredder_bone_45
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41/goblinshredder_bone_45/goblinshredder_bone_54
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41/goblinshredder_bone_45/goblinshredder_bone_54/goblinshredder_bone_63
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41/goblinshredder_bone_45/goblinshredder_bone_54/goblinshredder_bone_63/goblinshredder_bone_68
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41/goblinshredder_bone_45/goblinshredder_bone_54/goblinshredder_bone_63/goblinshredder_bone_68/goblinshredder_bone_77
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41/goblinshredder_bone_45/goblinshredder_bone_55
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_69
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_69/goblinshredder_bone_78
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_70
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_70/goblinshredder_bone_79
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_71
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_71/goblinshredder_bone_80
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_72
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_72/goblinshredder_bone_81
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_65
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_73
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_73/goblinshredder_bone_82
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_74
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_74/goblinshredder_bone_83
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_75
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_75/goblinshredder_bone_84
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_76
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_76/goblinshredder_bone_85
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_67
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_35
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_35/goblinshredder_bone_38
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_35/goblinshredder_bone_38/goblinshredder_bone_48
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_35/goblinshredder_bone_38/goblinshredder_bone_48/goblinshredder_bone_58
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_35/goblinshredder_bone_38/goblinshredder_bone_49
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_36
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_36/goblinshredder_bone_39
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_36/goblinshredder_bone_39/goblinshredder_bone_50
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_36/goblinshredder_bone_39/goblinshredder_bone_50/goblinshredder_bone_59
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death [12]
+      takeName: Death [12]
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: goblinshredder
+        weight: 1
+      - path: goblinshredder 1
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_4
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_4/goblinshredder_bone_8
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_4/goblinshredder_bone_8/goblinshredder_bone_26
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_4/goblinshredder_bone_8/goblinshredder_bone_26/goblinshredder_bone_28
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_5
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_5/goblinshredder_bone_9
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_5/goblinshredder_bone_9/goblinshredder_bone_27
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_2/goblinshredder_bone_5/goblinshredder_bone_9/goblinshredder_bone_27/goblinshredder_bone_29
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_10
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_11
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_12
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_13
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_14
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44/goblinshredder_bone_51
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44/goblinshredder_bone_51/goblinshredder_bone_60
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44/goblinshredder_bone_52
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44/goblinshredder_bone_52/goblinshredder_bone_61
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44/goblinshredder_bone_53
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_30/goblinshredder_bone_40/goblinshredder_bone_44/goblinshredder_bone_53/goblinshredder_bone_62
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_15/goblinshredder_bone_22/goblinshredder_bone_31
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_16
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_16/goblinshredder_bone_23
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_16/goblinshredder_bone_23/goblinshredder_bone_32
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_16/goblinshredder_bone_23/goblinshredder_bone_32/goblinshredder_bone_37
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_16/goblinshredder_bone_23/goblinshredder_bone_33
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_17
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_18
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_18/goblinshredder_bone_20
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_18/goblinshredder_bone_21
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_18/goblinshredder_bone_21/goblinshredder_bone_110
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_6/goblinshredder_bone_103
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41/goblinshredder_bone_45
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41/goblinshredder_bone_45/goblinshredder_bone_54
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41/goblinshredder_bone_45/goblinshredder_bone_54/goblinshredder_bone_63
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41/goblinshredder_bone_45/goblinshredder_bone_54/goblinshredder_bone_63/goblinshredder_bone_68
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41/goblinshredder_bone_45/goblinshredder_bone_54/goblinshredder_bone_63/goblinshredder_bone_68/goblinshredder_bone_77
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_41/goblinshredder_bone_45/goblinshredder_bone_55
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_69
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_69/goblinshredder_bone_78
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_70
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_70/goblinshredder_bone_79
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_71
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_71/goblinshredder_bone_80
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_72
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_64/goblinshredder_bone_72/goblinshredder_bone_81
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_42/goblinshredder_bone_46/goblinshredder_bone_56/goblinshredder_bone_65
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_73
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_73/goblinshredder_bone_82
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_74
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_74/goblinshredder_bone_83
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_75
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_75/goblinshredder_bone_84
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_76
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_66/goblinshredder_bone_76/goblinshredder_bone_85
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_24/goblinshredder_bone_34/goblinshredder_bone_43/goblinshredder_bone_47/goblinshredder_bone_57/goblinshredder_bone_67
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_35
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_35/goblinshredder_bone_38
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_35/goblinshredder_bone_38/goblinshredder_bone_48
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_35/goblinshredder_bone_38/goblinshredder_bone_48/goblinshredder_bone_58
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_35/goblinshredder_bone_38/goblinshredder_bone_49
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_36
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_36/goblinshredder_bone_39
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_36/goblinshredder_bone_39/goblinshredder_bone_50
+        weight: 1
+      - path: goblinshredder 1/goblinshredder_bone_0/goblinshredder_bone_1/goblinshredder_bone_3/goblinshredder_bone_7/goblinshredder_bone_19/goblinshredder_bone_25/goblinshredder_bone_36/goblinshredder_bone_39/goblinshredder_bone_50/goblinshredder_bone_59
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

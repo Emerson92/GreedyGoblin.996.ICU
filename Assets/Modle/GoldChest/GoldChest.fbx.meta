@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 4f9304bba058b9a47968113830853af7
+timeCreated: 1461894585
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: garrison_ui_chest_goldalliance
+    100002: garrison_ui_chest_goldalliance 1
+    100004: garrison_ui_chest_goldalliance_bone_0
+    100006: garrison_ui_chest_goldalliance_bone_1
+    100008: garrison_ui_chest_goldalliance_bone_10
+    100010: garrison_ui_chest_goldalliance_bone_11
+    100012: garrison_ui_chest_goldalliance_bone_12
+    100014: garrison_ui_chest_goldalliance_bone_13
+    100016: garrison_ui_chest_goldalliance_bone_14
+    100018: garrison_ui_chest_goldalliance_bone_15
+    100020: garrison_ui_chest_goldalliance_bone_16
+    100022: garrison_ui_chest_goldalliance_bone_17
+    100024: garrison_ui_chest_goldalliance_bone_18
+    100026: garrison_ui_chest_goldalliance_bone_19
+    100028: garrison_ui_chest_goldalliance_bone_2
+    100030: garrison_ui_chest_goldalliance_bone_3
+    100032: garrison_ui_chest_goldalliance_bone_4
+    100034: garrison_ui_chest_goldalliance_bone_5
+    100036: garrison_ui_chest_goldalliance_bone_6
+    100038: garrison_ui_chest_goldalliance_bone_7
+    100040: garrison_ui_chest_goldalliance_bone_8
+    100042: garrison_ui_chest_goldalliance_bone_9
+    100044: //RootNode
+    400000: garrison_ui_chest_goldalliance
+    400002: garrison_ui_chest_goldalliance 1
+    400004: garrison_ui_chest_goldalliance_bone_0
+    400006: garrison_ui_chest_goldalliance_bone_1
+    400008: garrison_ui_chest_goldalliance_bone_10
+    400010: garrison_ui_chest_goldalliance_bone_11
+    400012: garrison_ui_chest_goldalliance_bone_12
+    400014: garrison_ui_chest_goldalliance_bone_13
+    400016: garrison_ui_chest_goldalliance_bone_14
+    400018: garrison_ui_chest_goldalliance_bone_15
+    400020: garrison_ui_chest_goldalliance_bone_16
+    400022: garrison_ui_chest_goldalliance_bone_17
+    400024: garrison_ui_chest_goldalliance_bone_18
+    400026: garrison_ui_chest_goldalliance_bone_19
+    400028: garrison_ui_chest_goldalliance_bone_2
+    400030: garrison_ui_chest_goldalliance_bone_3
+    400032: garrison_ui_chest_goldalliance_bone_4
+    400034: garrison_ui_chest_goldalliance_bone_5
+    400036: garrison_ui_chest_goldalliance_bone_6
+    400038: garrison_ui_chest_goldalliance_bone_7
+    400040: garrison_ui_chest_goldalliance_bone_8
+    400042: garrison_ui_chest_goldalliance_bone_9
+    400044: //RootNode
+    4300000: garrison_ui_chest_goldalliance
+    7400000: Stand [0]
+    9500000: //RootNode
+    13700000: garrison_ui_chest_goldalliance
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

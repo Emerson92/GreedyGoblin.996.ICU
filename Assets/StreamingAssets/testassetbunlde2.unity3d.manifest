@@ -1,0 +1,73 @@
+ManifestFileVersion: 0
+CRC: 1530130632
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8a804fb5b6f2d71327fec9949f9705e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1d5285d81827c99eafcfba6f8a7888be
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 12
+  Script: {instanceID: 0}
+- Class: 15
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 26
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 87
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: af5701b3e8165644cb9d48256c5ce597, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10090de4bd135d94b98ada748535e015, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6f54ac45d32063841819056899226935, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: edbff5959c07bac45a8d55e0f1174f07, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 329abe3bb45e4d8408925f18de871d2c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Goblin.prefab
+- Assets/Prefabs/explosion_player.prefab
+Dependencies: []

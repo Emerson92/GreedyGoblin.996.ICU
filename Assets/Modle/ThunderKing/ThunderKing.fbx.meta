@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: a5b683a99d72e594ebb62080f6ef9464
+timeCreated: 1462073808
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: moguthunderking
+    100002: moguthunderking 1
+    100004: moguthunderking_bone_0
+    100006: moguthunderking_bone_1
+    100008: moguthunderking_bone_10
+    100010: moguthunderking_bone_11
+    100012: moguthunderking_bone_12
+    100014: moguthunderking_bone_120
+    100016: moguthunderking_bone_121
+    100018: moguthunderking_bone_13
+    100020: moguthunderking_bone_14
+    100022: moguthunderking_bone_15
+    100024: moguthunderking_bone_16
+    100026: moguthunderking_bone_17
+    100028: moguthunderking_bone_18
+    100030: moguthunderking_bone_19
+    100032: moguthunderking_bone_2
+    100034: moguthunderking_bone_20
+    100036: moguthunderking_bone_21
+    100038: moguthunderking_bone_22
+    100040: moguthunderking_bone_23
+    100042: moguthunderking_bone_24
+    100044: moguthunderking_bone_25
+    100046: moguthunderking_bone_26
+    100048: moguthunderking_bone_27
+    100050: moguthunderking_bone_28
+    100052: moguthunderking_bone_29
+    100054: moguthunderking_bone_3
+    100056: moguthunderking_bone_30
+    100058: moguthunderking_bone_31
+    100060: moguthunderking_bone_32
+    100062: moguthunderking_bone_33
+    100064: moguthunderking_bone_34
+    100066: moguthunderking_bone_35
+    100068: moguthunderking_bone_36
+    100070: moguthunderking_bone_37
+    100072: moguthunderking_bone_38
+    100074: moguthunderking_bone_39
+    100076: moguthunderking_bone_4
+    100078: moguthunderking_bone_40
+    100080: moguthunderking_bone_41
+    100082: moguthunderking_bone_42
+    100084: moguthunderking_bone_43
+    100086: moguthunderking_bone_44
+    100088: moguthunderking_bone_45
+    100090: moguthunderking_bone_46
+    100092: moguthunderking_bone_47
+    100094: moguthunderking_bone_48
+    100096: moguthunderking_bone_49
+    100098: moguthunderking_bone_5
+    100100: moguthunderking_bone_50
+    100102: moguthunderking_bone_51
+    100104: moguthunderking_bone_52
+    100106: moguthunderking_bone_53
+    100108: moguthunderking_bone_54
+    100110: moguthunderking_bone_55
+    100112: moguthunderking_bone_56
+    100114: moguthunderking_bone_57
+    100116: moguthunderking_bone_58
+    100118: moguthunderking_bone_59
+    100120: moguthunderking_bone_6
+    100122: moguthunderking_bone_7
+    100124: moguthunderking_bone_8
+    100126: moguthunderking_bone_9
+    100128: //RootNode
+    400000: moguthunderking
+    400002: moguthunderking 1
+    400004: moguthunderking_bone_0
+    400006: moguthunderking_bone_1
+    400008: moguthunderking_bone_10
+    400010: moguthunderking_bone_11
+    400012: moguthunderking_bone_12
+    400014: moguthunderking_bone_120
+    400016: moguthunderking_bone_121
+    400018: moguthunderking_bone_13
+    400020: moguthunderking_bone_14
+    400022: moguthunderking_bone_15
+    400024: moguthunderking_bone_16
+    400026: moguthunderking_bone_17
+    400028: moguthunderking_bone_18
+    400030: moguthunderking_bone_19
+    400032: moguthunderking_bone_2
+    400034: moguthunderking_bone_20
+    400036: moguthunderking_bone_21
+    400038: moguthunderking_bone_22
+    400040: moguthunderking_bone_23
+    400042: moguthunderking_bone_24
+    400044: moguthunderking_bone_25
+    400046: moguthunderking_bone_26
+    400048: moguthunderking_bone_27
+    400050: moguthunderking_bone_28
+    400052: moguthunderking_bone_29
+    400054: moguthunderking_bone_3
+    400056: moguthunderking_bone_30
+    400058: moguthunderking_bone_31
+    400060: moguthunderking_bone_32
+    400062: moguthunderking_bone_33
+    400064: moguthunderking_bone_34
+    400066: moguthunderking_bone_35
+    400068: moguthunderking_bone_36
+    400070: moguthunderking_bone_37
+    400072: moguthunderking_bone_38
+    400074: moguthunderking_bone_39
+    400076: moguthunderking_bone_4
+    400078: moguthunderking_bone_40
+    400080: moguthunderking_bone_41
+    400082: moguthunderking_bone_42
+    400084: moguthunderking_bone_43
+    400086: moguthunderking_bone_44
+    400088: moguthunderking_bone_45
+    400090: moguthunderking_bone_46
+    400092: moguthunderking_bone_47
+    400094: moguthunderking_bone_48
+    400096: moguthunderking_bone_49
+    400098: moguthunderking_bone_5
+    400100: moguthunderking_bone_50
+    400102: moguthunderking_bone_51
+    400104: moguthunderking_bone_52
+    400106: moguthunderking_bone_53
+    400108: moguthunderking_bone_54
+    400110: moguthunderking_bone_55
+    400112: moguthunderking_bone_56
+    400114: moguthunderking_bone_57
+    400116: moguthunderking_bone_58
+    400118: moguthunderking_bone_59
+    400120: moguthunderking_bone_6
+    400122: moguthunderking_bone_7
+    400124: moguthunderking_bone_8
+    400126: moguthunderking_bone_9
+    400128: //RootNode
+    4300000: moguthunderking
+    7400000: EmotePoint [15]
+    7400002: EmoteTalk [16]
+    7400004: EmoteTalkExclamation [17]
+    7400006: Hover [19]
+    9500000: //RootNode
+    13700000: moguthunderking
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: EmotePoint [15]
+      takeName: EmotePoint [15]
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: moguthunderking
+        weight: 1
+      - path: moguthunderking 1
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_4
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_4/moguthunderking_bone_10
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_4/moguthunderking_bone_10/moguthunderking_bone_15
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_4/moguthunderking_bone_10/moguthunderking_bone_15/moguthunderking_bone_21
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_5
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_5/moguthunderking_bone_11
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_5/moguthunderking_bone_11/moguthunderking_bone_16
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_5/moguthunderking_bone_11/moguthunderking_bone_16/moguthunderking_bone_22
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_6
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_6/moguthunderking_bone_12
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_6/moguthunderking_bone_12/moguthunderking_bone_17
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_7
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_8
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_8/moguthunderking_bone_13
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_32
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_33
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_34
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_40
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_40/moguthunderking_bone_50
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_41
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_41/moguthunderking_bone_51
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_42
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_42/moguthunderking_bone_52
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_43
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_43/moguthunderking_bone_53
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_44
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_44/moguthunderking_bone_54
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_120
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24/moguthunderking_bone_27
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24/moguthunderking_bone_28
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24/moguthunderking_bone_29
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24/moguthunderking_bone_30
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_36
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_37
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_38
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_45
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_45/moguthunderking_bone_55
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_46
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_46/moguthunderking_bone_56
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_47
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_47/moguthunderking_bone_57
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_48
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_48/moguthunderking_bone_59
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_49
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_49/moguthunderking_bone_58
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_121
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: EmoteTalk [16]
+      takeName: EmoteTalk [16]
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: moguthunderking
+        weight: 1
+      - path: moguthunderking 1
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_4
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_4/moguthunderking_bone_10
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_4/moguthunderking_bone_10/moguthunderking_bone_15
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_4/moguthunderking_bone_10/moguthunderking_bone_15/moguthunderking_bone_21
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_5
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_5/moguthunderking_bone_11
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_5/moguthunderking_bone_11/moguthunderking_bone_16
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_5/moguthunderking_bone_11/moguthunderking_bone_16/moguthunderking_bone_22
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_6
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_6/moguthunderking_bone_12
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_6/moguthunderking_bone_12/moguthunderking_bone_17
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_7
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_8
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_8/moguthunderking_bone_13
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_32
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_33
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_34
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_40
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_40/moguthunderking_bone_50
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_41
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_41/moguthunderking_bone_51
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_42
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_42/moguthunderking_bone_52
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_43
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_43/moguthunderking_bone_53
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_44
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_44/moguthunderking_bone_54
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_120
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24/moguthunderking_bone_27
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24/moguthunderking_bone_28
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24/moguthunderking_bone_29
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24/moguthunderking_bone_30
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_36
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_37
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_38
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_45
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_45/moguthunderking_bone_55
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_46
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_46/moguthunderking_bone_56
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_47
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_47/moguthunderking_bone_57
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_48
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_48/moguthunderking_bone_59
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_49
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_49/moguthunderking_bone_58
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_121
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: EmoteTalkExclamation [17]
+      takeName: EmoteTalkExclamation [17]
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: moguthunderking
+        weight: 1
+      - path: moguthunderking 1
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_4
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_4/moguthunderking_bone_10
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_4/moguthunderking_bone_10/moguthunderking_bone_15
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_4/moguthunderking_bone_10/moguthunderking_bone_15/moguthunderking_bone_21
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_5
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_5/moguthunderking_bone_11
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_5/moguthunderking_bone_11/moguthunderking_bone_16
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_5/moguthunderking_bone_11/moguthunderking_bone_16/moguthunderking_bone_22
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_6
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_6/moguthunderking_bone_12
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_6/moguthunderking_bone_12/moguthunderking_bone_17
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_7
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_8
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_8/moguthunderking_bone_13
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_32
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_33
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_34
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_40
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_40/moguthunderking_bone_50
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_41
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_41/moguthunderking_bone_51
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_42
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_42/moguthunderking_bone_52
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_43
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_43/moguthunderking_bone_53
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_44
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_44/moguthunderking_bone_54
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_120
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24/moguthunderking_bone_27
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24/moguthunderking_bone_28
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24/moguthunderking_bone_29
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24/moguthunderking_bone_30
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_36
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_37
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_38
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_45
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_45/moguthunderking_bone_55
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_46
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_46/moguthunderking_bone_56
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_47
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_47/moguthunderking_bone_57
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_48
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_48/moguthunderking_bone_59
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_49
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_49/moguthunderking_bone_58
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_121
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hover [19]
+      takeName: Hover [19]
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: moguthunderking
+        weight: 1
+      - path: moguthunderking 1
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_4
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_4/moguthunderking_bone_10
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_4/moguthunderking_bone_10/moguthunderking_bone_15
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_4/moguthunderking_bone_10/moguthunderking_bone_15/moguthunderking_bone_21
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_5
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_5/moguthunderking_bone_11
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_5/moguthunderking_bone_11/moguthunderking_bone_16
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_5/moguthunderking_bone_11/moguthunderking_bone_16/moguthunderking_bone_22
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_6
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_6/moguthunderking_bone_12
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_6/moguthunderking_bone_12/moguthunderking_bone_17
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_7
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_8
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_2/moguthunderking_bone_8/moguthunderking_bone_13
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_32
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_33
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_34
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_40
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_40/moguthunderking_bone_50
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_41
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_41/moguthunderking_bone_51
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_42
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_42/moguthunderking_bone_52
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_43
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_43/moguthunderking_bone_53
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_44
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_44/moguthunderking_bone_54
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_18/moguthunderking_bone_23/moguthunderking_bone_26/moguthunderking_bone_35/moguthunderking_bone_120
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24/moguthunderking_bone_27
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24/moguthunderking_bone_28
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24/moguthunderking_bone_29
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_19/moguthunderking_bone_24/moguthunderking_bone_30
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_36
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_37
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_38
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_45
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_45/moguthunderking_bone_55
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_46
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_46/moguthunderking_bone_56
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_47
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_47/moguthunderking_bone_57
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_48
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_48/moguthunderking_bone_59
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_49
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_49/moguthunderking_bone_58
+        weight: 1
+      - path: moguthunderking 1/moguthunderking_bone_0/moguthunderking_bone_1/moguthunderking_bone_3/moguthunderking_bone_9/moguthunderking_bone_14/moguthunderking_bone_20/moguthunderking_bone_25/moguthunderking_bone_31/moguthunderking_bone_39/moguthunderking_bone_121
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

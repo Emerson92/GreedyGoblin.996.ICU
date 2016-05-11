@@ -1,0 +1,729 @@
+fileFormatVersion: 2
+guid: 08ca6e4c6e6c3f84ba33f4ff5af1fdf4
+timeCreated: 1462035640
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: hozumonkeyking
+    100002: hozumonkeyking 1
+    100004: hozumonkeyking_bone_0
+    100006: hozumonkeyking_bone_1
+    100008: hozumonkeyking_bone_10
+    100010: hozumonkeyking_bone_100
+    100012: hozumonkeyking_bone_101
+    100014: hozumonkeyking_bone_11
+    100016: hozumonkeyking_bone_12
+    100018: hozumonkeyking_bone_13
+    100020: hozumonkeyking_bone_14
+    100022: hozumonkeyking_bone_15
+    100024: hozumonkeyking_bone_16
+    100026: hozumonkeyking_bone_17
+    100028: hozumonkeyking_bone_18
+    100030: hozumonkeyking_bone_19
+    100032: hozumonkeyking_bone_2
+    100034: hozumonkeyking_bone_20
+    100036: hozumonkeyking_bone_21
+    100038: hozumonkeyking_bone_22
+    100040: hozumonkeyking_bone_23
+    100042: hozumonkeyking_bone_24
+    100044: hozumonkeyking_bone_25
+    100046: hozumonkeyking_bone_26
+    100048: hozumonkeyking_bone_27
+    100050: hozumonkeyking_bone_28
+    100052: hozumonkeyking_bone_29
+    100054: hozumonkeyking_bone_3
+    100056: hozumonkeyking_bone_30
+    100058: hozumonkeyking_bone_31
+    100060: hozumonkeyking_bone_32
+    100062: hozumonkeyking_bone_33
+    100064: hozumonkeyking_bone_34
+    100066: hozumonkeyking_bone_35
+    100068: hozumonkeyking_bone_36
+    100070: hozumonkeyking_bone_37
+    100072: hozumonkeyking_bone_38
+    100074: hozumonkeyking_bone_39
+    100076: hozumonkeyking_bone_4
+    100078: hozumonkeyking_bone_40
+    100080: hozumonkeyking_bone_41
+    100082: hozumonkeyking_bone_42
+    100084: hozumonkeyking_bone_43
+    100086: hozumonkeyking_bone_44
+    100088: hozumonkeyking_bone_45
+    100090: hozumonkeyking_bone_46
+    100092: hozumonkeyking_bone_47
+    100094: hozumonkeyking_bone_48
+    100096: hozumonkeyking_bone_49
+    100098: hozumonkeyking_bone_5
+    100100: hozumonkeyking_bone_50
+    100102: hozumonkeyking_bone_51
+    100104: hozumonkeyking_bone_52
+    100106: hozumonkeyking_bone_53
+    100108: hozumonkeyking_bone_54
+    100110: hozumonkeyking_bone_55
+    100112: hozumonkeyking_bone_56
+    100114: hozumonkeyking_bone_57
+    100116: hozumonkeyking_bone_58
+    100118: hozumonkeyking_bone_59
+    100120: hozumonkeyking_bone_6
+    100122: hozumonkeyking_bone_60
+    100124: hozumonkeyking_bone_61
+    100126: hozumonkeyking_bone_62
+    100128: hozumonkeyking_bone_63
+    100130: hozumonkeyking_bone_7
+    100132: hozumonkeyking_bone_8
+    100134: hozumonkeyking_bone_9
+    100136: hozumonkeyking_bone_98
+    100138: hozumonkeyking_bone_99
+    100140: //RootNode
+    400000: hozumonkeyking
+    400002: hozumonkeyking 1
+    400004: hozumonkeyking_bone_0
+    400006: hozumonkeyking_bone_1
+    400008: hozumonkeyking_bone_10
+    400010: hozumonkeyking_bone_100
+    400012: hozumonkeyking_bone_101
+    400014: hozumonkeyking_bone_11
+    400016: hozumonkeyking_bone_12
+    400018: hozumonkeyking_bone_13
+    400020: hozumonkeyking_bone_14
+    400022: hozumonkeyking_bone_15
+    400024: hozumonkeyking_bone_16
+    400026: hozumonkeyking_bone_17
+    400028: hozumonkeyking_bone_18
+    400030: hozumonkeyking_bone_19
+    400032: hozumonkeyking_bone_2
+    400034: hozumonkeyking_bone_20
+    400036: hozumonkeyking_bone_21
+    400038: hozumonkeyking_bone_22
+    400040: hozumonkeyking_bone_23
+    400042: hozumonkeyking_bone_24
+    400044: hozumonkeyking_bone_25
+    400046: hozumonkeyking_bone_26
+    400048: hozumonkeyking_bone_27
+    400050: hozumonkeyking_bone_28
+    400052: hozumonkeyking_bone_29
+    400054: hozumonkeyking_bone_3
+    400056: hozumonkeyking_bone_30
+    400058: hozumonkeyking_bone_31
+    400060: hozumonkeyking_bone_32
+    400062: hozumonkeyking_bone_33
+    400064: hozumonkeyking_bone_34
+    400066: hozumonkeyking_bone_35
+    400068: hozumonkeyking_bone_36
+    400070: hozumonkeyking_bone_37
+    400072: hozumonkeyking_bone_38
+    400074: hozumonkeyking_bone_39
+    400076: hozumonkeyking_bone_4
+    400078: hozumonkeyking_bone_40
+    400080: hozumonkeyking_bone_41
+    400082: hozumonkeyking_bone_42
+    400084: hozumonkeyking_bone_43
+    400086: hozumonkeyking_bone_44
+    400088: hozumonkeyking_bone_45
+    400090: hozumonkeyking_bone_46
+    400092: hozumonkeyking_bone_47
+    400094: hozumonkeyking_bone_48
+    400096: hozumonkeyking_bone_49
+    400098: hozumonkeyking_bone_5
+    400100: hozumonkeyking_bone_50
+    400102: hozumonkeyking_bone_51
+    400104: hozumonkeyking_bone_52
+    400106: hozumonkeyking_bone_53
+    400108: hozumonkeyking_bone_54
+    400110: hozumonkeyking_bone_55
+    400112: hozumonkeyking_bone_56
+    400114: hozumonkeyking_bone_57
+    400116: hozumonkeyking_bone_58
+    400118: hozumonkeyking_bone_59
+    400120: hozumonkeyking_bone_6
+    400122: hozumonkeyking_bone_60
+    400124: hozumonkeyking_bone_61
+    400126: hozumonkeyking_bone_62
+    400128: hozumonkeyking_bone_63
+    400130: hozumonkeyking_bone_7
+    400132: hozumonkeyking_bone_8
+    400134: hozumonkeyking_bone_9
+    400136: hozumonkeyking_bone_98
+    400138: hozumonkeyking_bone_99
+    400140: //RootNode
+    4300000: hozumonkeyking
+    7400000: Stand [0]
+    7400002: Attack1H [20]
+    7400004: Run [36]
+    9500000: //RootNode
+    13700000: hozumonkeyking
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stand [0]
+      takeName: Stand [0]
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: hozumonkeyking
+        weight: 1
+      - path: hozumonkeyking 1
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8/hozumonkeyking_bone_14
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8/hozumonkeyking_bone_14/hozumonkeyking_bone_20
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8/hozumonkeyking_bone_14/hozumonkeyking_bone_21
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8/hozumonkeyking_bone_14/hozumonkeyking_bone_22
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8/hozumonkeyking_bone_14/hozumonkeyking_bone_23
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8/hozumonkeyking_bone_14/hozumonkeyking_bone_24
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_43
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_43/hozumonkeyking_bone_54
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_44
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_44/hozumonkeyking_bone_55
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_45
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_45/hozumonkeyking_bone_56
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_46
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_46/hozumonkeyking_bone_57
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_47
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_47/hozumonkeyking_bone_58
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_98
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_99
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_48
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_48/hozumonkeyking_bone_59
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_49
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_49/hozumonkeyking_bone_60
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_50
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_50/hozumonkeyking_bone_61
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_51
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_51/hozumonkeyking_bone_62
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_52
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_52/hozumonkeyking_bone_63
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_100
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_101
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11/hozumonkeyking_bone_17
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11/hozumonkeyking_bone_17/hozumonkeyking_bone_25
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11/hozumonkeyking_bone_17/hozumonkeyking_bone_25/hozumonkeyking_bone_32
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11/hozumonkeyking_bone_17/hozumonkeyking_bone_25/hozumonkeyking_bone_32/hozumonkeyking_bone_37
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11/hozumonkeyking_bone_17/hozumonkeyking_bone_25/hozumonkeyking_bone_32/hozumonkeyking_bone_37/hozumonkeyking_bone_42
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11/hozumonkeyking_bone_17/hozumonkeyking_bone_25/hozumonkeyking_bone_32/hozumonkeyking_bone_37/hozumonkeyking_bone_42/hozumonkeyking_bone_53
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_6
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_6/hozumonkeyking_bone_12
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_6/hozumonkeyking_bone_12/hozumonkeyking_bone_18
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_6/hozumonkeyking_bone_12/hozumonkeyking_bone_18/hozumonkeyking_bone_28
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_6/hozumonkeyking_bone_12/hozumonkeyking_bone_18/hozumonkeyking_bone_28/hozumonkeyking_bone_33
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_6/hozumonkeyking_bone_12/hozumonkeyking_bone_18/hozumonkeyking_bone_28/hozumonkeyking_bone_33/hozumonkeyking_bone_38
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_7
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_7/hozumonkeyking_bone_13
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_7/hozumonkeyking_bone_13/hozumonkeyking_bone_19
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_7/hozumonkeyking_bone_13/hozumonkeyking_bone_19/hozumonkeyking_bone_29
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_7/hozumonkeyking_bone_13/hozumonkeyking_bone_19/hozumonkeyking_bone_29/hozumonkeyking_bone_34
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_7/hozumonkeyking_bone_13/hozumonkeyking_bone_19/hozumonkeyking_bone_29/hozumonkeyking_bone_34/hozumonkeyking_bone_39
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack1H [20]
+      takeName: Attack1H [20]
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: hozumonkeyking
+        weight: 1
+      - path: hozumonkeyking 1
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8/hozumonkeyking_bone_14
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8/hozumonkeyking_bone_14/hozumonkeyking_bone_20
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8/hozumonkeyking_bone_14/hozumonkeyking_bone_21
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8/hozumonkeyking_bone_14/hozumonkeyking_bone_22
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8/hozumonkeyking_bone_14/hozumonkeyking_bone_23
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8/hozumonkeyking_bone_14/hozumonkeyking_bone_24
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_43
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_43/hozumonkeyking_bone_54
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_44
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_44/hozumonkeyking_bone_55
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_45
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_45/hozumonkeyking_bone_56
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_46
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_46/hozumonkeyking_bone_57
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_47
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_47/hozumonkeyking_bone_58
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_98
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_99
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_48
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_48/hozumonkeyking_bone_59
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_49
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_49/hozumonkeyking_bone_60
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_50
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_50/hozumonkeyking_bone_61
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_51
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_51/hozumonkeyking_bone_62
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_52
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_52/hozumonkeyking_bone_63
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_100
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_101
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11/hozumonkeyking_bone_17
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11/hozumonkeyking_bone_17/hozumonkeyking_bone_25
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11/hozumonkeyking_bone_17/hozumonkeyking_bone_25/hozumonkeyking_bone_32
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11/hozumonkeyking_bone_17/hozumonkeyking_bone_25/hozumonkeyking_bone_32/hozumonkeyking_bone_37
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11/hozumonkeyking_bone_17/hozumonkeyking_bone_25/hozumonkeyking_bone_32/hozumonkeyking_bone_37/hozumonkeyking_bone_42
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11/hozumonkeyking_bone_17/hozumonkeyking_bone_25/hozumonkeyking_bone_32/hozumonkeyking_bone_37/hozumonkeyking_bone_42/hozumonkeyking_bone_53
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_6
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_6/hozumonkeyking_bone_12
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_6/hozumonkeyking_bone_12/hozumonkeyking_bone_18
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_6/hozumonkeyking_bone_12/hozumonkeyking_bone_18/hozumonkeyking_bone_28
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_6/hozumonkeyking_bone_12/hozumonkeyking_bone_18/hozumonkeyking_bone_28/hozumonkeyking_bone_33
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_6/hozumonkeyking_bone_12/hozumonkeyking_bone_18/hozumonkeyking_bone_28/hozumonkeyking_bone_33/hozumonkeyking_bone_38
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_7
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_7/hozumonkeyking_bone_13
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_7/hozumonkeyking_bone_13/hozumonkeyking_bone_19
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_7/hozumonkeyking_bone_13/hozumonkeyking_bone_19/hozumonkeyking_bone_29
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_7/hozumonkeyking_bone_13/hozumonkeyking_bone_19/hozumonkeyking_bone_29/hozumonkeyking_bone_34
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_7/hozumonkeyking_bone_13/hozumonkeyking_bone_19/hozumonkeyking_bone_29/hozumonkeyking_bone_34/hozumonkeyking_bone_39
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run [36]
+      takeName: Run [36]
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: hozumonkeyking
+        weight: 1
+      - path: hozumonkeyking 1
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8/hozumonkeyking_bone_14
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8/hozumonkeyking_bone_14/hozumonkeyking_bone_20
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8/hozumonkeyking_bone_14/hozumonkeyking_bone_21
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8/hozumonkeyking_bone_14/hozumonkeyking_bone_22
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8/hozumonkeyking_bone_14/hozumonkeyking_bone_23
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_8/hozumonkeyking_bone_14/hozumonkeyking_bone_24
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_43
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_43/hozumonkeyking_bone_54
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_44
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_44/hozumonkeyking_bone_55
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_45
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_45/hozumonkeyking_bone_56
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_46
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_46/hozumonkeyking_bone_57
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_47
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_15/hozumonkeyking_bone_26/hozumonkeyking_bone_30/hozumonkeyking_bone_35/hozumonkeyking_bone_40/hozumonkeyking_bone_47/hozumonkeyking_bone_58
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_98
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_9/hozumonkeyking_bone_99
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_48
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_48/hozumonkeyking_bone_59
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_49
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_49/hozumonkeyking_bone_60
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_50
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_50/hozumonkeyking_bone_61
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_51
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_51/hozumonkeyking_bone_62
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_52
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_16/hozumonkeyking_bone_27/hozumonkeyking_bone_31/hozumonkeyking_bone_36/hozumonkeyking_bone_41/hozumonkeyking_bone_52/hozumonkeyking_bone_63
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_100
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_2/hozumonkeyking_bone_4/hozumonkeyking_bone_10/hozumonkeyking_bone_101
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11/hozumonkeyking_bone_17
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11/hozumonkeyking_bone_17/hozumonkeyking_bone_25
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11/hozumonkeyking_bone_17/hozumonkeyking_bone_25/hozumonkeyking_bone_32
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11/hozumonkeyking_bone_17/hozumonkeyking_bone_25/hozumonkeyking_bone_32/hozumonkeyking_bone_37
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11/hozumonkeyking_bone_17/hozumonkeyking_bone_25/hozumonkeyking_bone_32/hozumonkeyking_bone_37/hozumonkeyking_bone_42
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_5/hozumonkeyking_bone_11/hozumonkeyking_bone_17/hozumonkeyking_bone_25/hozumonkeyking_bone_32/hozumonkeyking_bone_37/hozumonkeyking_bone_42/hozumonkeyking_bone_53
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_6
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_6/hozumonkeyking_bone_12
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_6/hozumonkeyking_bone_12/hozumonkeyking_bone_18
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_6/hozumonkeyking_bone_12/hozumonkeyking_bone_18/hozumonkeyking_bone_28
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_6/hozumonkeyking_bone_12/hozumonkeyking_bone_18/hozumonkeyking_bone_28/hozumonkeyking_bone_33
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_6/hozumonkeyking_bone_12/hozumonkeyking_bone_18/hozumonkeyking_bone_28/hozumonkeyking_bone_33/hozumonkeyking_bone_38
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_7
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_7/hozumonkeyking_bone_13
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_7/hozumonkeyking_bone_13/hozumonkeyking_bone_19
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_7/hozumonkeyking_bone_13/hozumonkeyking_bone_19/hozumonkeyking_bone_29
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_7/hozumonkeyking_bone_13/hozumonkeyking_bone_19/hozumonkeyking_bone_29/hozumonkeyking_bone_34
+        weight: 1
+      - path: hozumonkeyking 1/hozumonkeyking_bone_0/hozumonkeyking_bone_1/hozumonkeyking_bone_3/hozumonkeyking_bone_7/hozumonkeyking_bone_13/hozumonkeyking_bone_19/hozumonkeyking_bone_29/hozumonkeyking_bone_34/hozumonkeyking_bone_39
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 2872567824
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67f05ee5c2c7c61dc1908a405c1b60df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b5061f27df60253a6db44d1e66b7034
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 089df503c898c7d42913f9bee0b83461, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf9d4a3586e2d354284ffcdec62a5f8f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/glaive.prefab
+- Assets/Prefabs/GoldDargon.prefab
+- Assets/Prefabs/GoldSpeed.prefab
+- Assets/Prefabs/GoldChest.prefab
+Dependencies: []
